@@ -68,6 +68,12 @@ The server console acts as an administrative terminal:
 
 ---
 
+Academic Context
+This project was developed as the final coursework for "Operating Systems" (Academic Year 2024/2025).
+
+Team Size: 2 Members 
+Final Grade: 9.2 / 10
+
 ## Configuration & Execution
 
 ### 1. Environment Setup
@@ -95,8 +101,3 @@ Bash
 ./feed <username>
 
 
-Academic Context
-This project was developed as the final coursework for "Operating Systems" (Academic Year 2024/2025).
-
-Team Size: 2 Members 
-Final Grade: 9.2 / 10
